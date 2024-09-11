@@ -1,3 +1,4 @@
+
 <!-- hide -->
 # HTML5 Exercises Tutorial at 4Geeks Academy
 <a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/learnpack/html-tutorial-exercises-course/blob/master/HTML-badge.png"></a>
@@ -94,3 +95,6 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 3. [Daniel Machota (@d4rkm0nst3r)](https://github.com/d4rkm0nst3r), contribution: (build-tutorial) ✅, Translation 🌍
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind are welcome!
+=======
+# html-4geeks
+>>>>>>> 6d773284489de4dda993f74efb28334ef707e535
